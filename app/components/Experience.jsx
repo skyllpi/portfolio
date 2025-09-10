@@ -9,10 +9,10 @@ const Experience = () => {
               <h3 className="text-base font-semibold mb-1">Software & AI Developer</h3>
               <p className="text-gray-400 text-sm">Self Employed</p>
               <ul className="text-gray-400 space-y-1 list-disc ml-4 mt-2 text-sm">
-                <li>- Participated in National Level Hackathons (Adobe, ISRO, Walmart, Microsoft)</li>
-                <li>- Developed diffusion models for cloud prediction using advanced AI techniques</li>
-                <li>- Built AI Avatar Assistant integrating MediaPipe, OpenCV, and LangChain</li>
-                <li>- Created innovative solutions for real-world AI applications</li>
+                <li>  Participated in National Level Hackathons (Adobe, ISRO, Walmart, Microsoft)</li>
+                <li>  Developed diffusion models for cloud prediction using advanced AI techniques</li>
+                <li>  Built AI Avatar Assistant integrating MediaPipe, OpenCV, and LangChain</li>
+                <li>  Created innovative solutions for real-world AI applications</li>
               </ul>
             </div>
             <div className="text-right mt-4 lg:mt-0">
