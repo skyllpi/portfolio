@@ -50,7 +50,7 @@ const Navbar = () => {
         </a>
 
         <a
-          href="https://leetcode.com/u/aryan0015/"
+          href="https://codolio.com/profile/skyllpi"
           target="_blank"
           rel="noopener noreferrer"
           className="p-2 text-gray-300 hover:text-white transition-colors"
