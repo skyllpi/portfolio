@@ -1,2 +1,2 @@
 # My Portfolio
-Minimalistic personal portfolio
+Minimalistic personal portfolio 
